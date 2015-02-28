@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pgyer_sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/pgyer_sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

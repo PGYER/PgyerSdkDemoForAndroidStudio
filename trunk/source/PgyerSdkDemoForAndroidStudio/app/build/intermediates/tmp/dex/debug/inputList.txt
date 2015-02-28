@@ -1,0 +1,6 @@
+/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/classes/debug
+/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d4ed295c57fca3bb36611fe5321bf5c315a8fb9c.jar
+/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/pgyer_sdk-8f6c1b1bd54e39c6304548e632510c633f97c40b.jar
+/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c72ae9dba0ea514739329a4e7584b3b476f9f844.jar
+/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-3421c576d4a989d6f244a3786e641bb2c1b4d78e.jar
+/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-b5ccd8ac1fb59c0aa8fa1e822bead788081b0942.jar
