@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c72ae9dba0ea514739329a4e7584b3b476f9f844.jar" />
+    </item>
+    <item
+        jar="/Users/frank/Downloads/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d4ed295c57fca3bb36611fe5321bf5c315a8fb9c.jar" />
+    </item>
+    <item
+        jar="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/libs/pgyer_sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cffdf7032da0fdaa3960f5e5b4b4d0d0c135c283">
+        <dex dex="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/pgyer_sdk-8f6c1b1bd54e39c6304548e632510c633f97c40b.jar" />
+    </item>
+    <item
+        jar="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-3421c576d4a989d6f244a3786e641bb2c1b4d78e.jar" />
+    </item>
+    <item
+        jar="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/frank/Documents/svn_client/pgyer_sdk_android/trunk/source/PgyerSdkDemoForAndroidStudio/app/build/intermediates/pre-dexed/debug/classes-b5ccd8ac1fb59c0aa8fa1e822bead788081b0942.jar" />
+    </item>
+
+</items>
