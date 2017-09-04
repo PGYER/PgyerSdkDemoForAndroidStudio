@@ -1,2 +1,2 @@
 # PgyerSdkDemoForAndroidStudio
-A demo of using Pgyer Android SDK.
+A demo use Pgyer Android SDK.
